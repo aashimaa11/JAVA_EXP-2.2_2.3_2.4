@@ -1,2 +1,2 @@
-# JAVA_EXP-2.3
+# JAVA_EXPERIMENTS
 Project Based Learning in Java Experiment 2.3
